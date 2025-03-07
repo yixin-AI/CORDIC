@@ -1,2 +1,2 @@
 ## CORDIC based on CANDENCE
-## FOR Learning only
+## For Learning only
